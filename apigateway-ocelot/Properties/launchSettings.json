@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "apigateway_ocelot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "dev"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7251;http://localhost:5148"
+    }
+}

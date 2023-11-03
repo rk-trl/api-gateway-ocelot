@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apigateway-ocelot", "apigateway-ocelot\apigateway-ocelot.csproj", "{59DC434B-C832-4B72-8D38-32C801B856C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-webapi", "sample-webapi\sample-webapi.csproj", "{C4BCC9AB-5682-4A22-AC4F-6BC891FA19FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DC434B-C832-4B72-8D38-32C801B856C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DC434B-C832-4B72-8D38-32C801B856C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DC434B-C832-4B72-8D38-32C801B856C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DC434B-C832-4B72-8D38-32C801B856C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BCC9AB-5682-4A22-AC4F-6BC891FA19FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BCC9AB-5682-4A22-AC4F-6BC891FA19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BCC9AB-5682-4A22-AC4F-6BC891FA19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BCC9AB-5682-4A22-AC4F-6BC891FA19FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8CAE5B-2848-4CF6-984B-92A4405AE4CB}
+	EndGlobalSection
+EndGlobal
